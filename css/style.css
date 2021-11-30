@@ -67,8 +67,8 @@ p {
 
 .profile-card {
   background: #CDDC39;
-  width: 40vw;
-  height: 70vh;
+  width: 70vw;
+  height: 100vh;
   position: absolute;
   left: 50%;
   top: 50%;
