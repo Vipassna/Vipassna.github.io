@@ -134,7 +134,7 @@ p {
 }
 
 .profile-card header a > img {
-  width: 50px;
+  width: 80px;
   max-width: 100%;
   -webkit-border-radius: 50%;
   border-radius: 50%;
@@ -150,8 +150,8 @@ p {
 }
 
 .profile-card .profile-bio {
-  width: 175px;
-  height: 180px;
+  width: 300px;
+  height: 600px;
   display: inline-block;
   float: right;
   padding: 50px 20px 30px 20px;
